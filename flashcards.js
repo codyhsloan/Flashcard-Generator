@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const library = require("./cardLibrary.json");
 const BasicCard = require("./BasicCard.js")
 const ClozeCard = require("./ClozeCard.js")
-const fs = require("fs");
+
 
 var drawnCard;
 var playedCard;

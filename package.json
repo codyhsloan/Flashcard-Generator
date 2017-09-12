@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "\"In this week's assignment, you will create the backend for a basic flashcard application.\"",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codyhsloan/Flashcard-Generator.git"
+  },
+  "author": "Cody Sloan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codyhsloan/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/codyhsloan/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.3"
+  }
+}
